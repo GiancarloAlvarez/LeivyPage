@@ -1,0 +1,14 @@
+
+.container{
+    background-color: #022774;
+   
+    border-radius: 1px;
+}
+
+
+
+
+.card-group{
+    display: flexbox;
+    flex-direction: row;
+}
